@@ -1,1 +1,1 @@
-# leetcode_record
+# Just a record of my leetcode journey
